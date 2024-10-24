@@ -1,13 +1,13 @@
 
-<a href="https://hackerrank.solutions/](https://hackerrank.solutions?s=github-30days-repo">
-    <img src="https://unicorn-cdn.b-cdn.net/3f5f7ac8-ee8d-4664-831f-7265116e914c/-/crop/852x195/29,41/-/preview/hackerrank-solutions.png" alt="HackerRank Solutions logo" title="HackerRank Solutions" align="right" height="50" />
+<a href="https://coderank.solutions/](https://coderank.solutions?s=github-30days-repo">
+    <img src="https://coderank.solutions/logo.png" alt="HackerRank Solutions logo" title="HackerRank Solutions" align="right" height="50" />
 </a>
 
 
 # Solutions to 30 days of Code Hackerrank
 In this repository, you will find solutions for the "30 Days of Code" challenge by HackerRank, implemented in a variety of programming languages including C, C++, C#, F#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift, and TypeScript.
 <br /><br />
-Repo made by **[HackerRankGPT - Solve HackerRank coding problems <ins>during your coding interview, in real-time and undetectable</ins>](https://hackerrank.solutions?s=github-30days-repo)** 😎
+Repo gathered by **[CodeRankGPT - Solve HackerRank coding problems <ins>during your coding interview, in real-time and undetectable</ins>](https://coderank.solutions?s=github-30days-repo)** 😎
 
 # Lists of challenges and solutions
 
@@ -44,13 +44,13 @@ Repo made by **[HackerRankGPT - Solve HackerRank coding problems <ins>during you
 
 
 
-## 💡 Why should you I use HackerRankGPT? 
+## 💡 Why should you I use CodeRankGPT? 
 
 <ins>**A safeguard against your nerves during your coding test.**</ins>
 <br />
-AI is changing the world, and a tool like HackerRankGPT can give you a clear advantage in coding tests, helping you stand out when applying for jobs. It’s here now, and other candidates might be using it to get ahead and win the job.
+AI is changing the world, and a tool like CodeRankGPT can give you a clear advantage in coding tests, helping you stand out when applying for jobs. It’s here now, and other candidates might be using it to get ahead and win the job.
 
 **<ins>Think of it as a helpful option when you’re stuck, not a must-use.</ins>**
 
 ## How can I get it?
-Get more information on how to use it and download link here: HackerRankGPT - [Get all HackerRank Solutions](https://hackerrank.solutions?s=github-30days-repo)
+Get more information on how to use it and download link here: CodeRankGPT - [Get all HackerRank Solutions](https://coderank.solutions?s=github-30days-repo)
