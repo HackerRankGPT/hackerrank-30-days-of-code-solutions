@@ -44,7 +44,7 @@ Repo gathered by **[CodeRankGPT - Solve HackerRank coding problems <ins>during y
 
 
 
-## 💡 Why should you I use CodeRankGPT? 
+## 💡 Why should you use CodeRankGPT? 
 
 <ins>**A safeguard against your nerves during your coding test.**</ins>
 <br />
