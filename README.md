@@ -4,7 +4,7 @@
 </a>
 
 
-# Solutions to 30 days of Code Hackerrank
+# Solutions to 30 days of code at Hackerrank
 In this repository, you will find solutions for the "30 Days of Code" challenge by HackerRank, implemented in a variety of programming languages including C, C++, C#, F#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift, and TypeScript.
 <br /><br />
 Repo gathered by **[CodeRankGPT - Solve HackerRank coding problems <ins>during your coding interview, in real-time and undetectable</ins>](https://coderank.solutions?s=github-30days-repo)** 😎
